@@ -115,3 +115,23 @@ border-radius:5px;
     padding: 50px;
     display: none;
 }
+
+/* ----------------------------- */
+
+
+
+
+.news-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.btn_btn{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    
+}
